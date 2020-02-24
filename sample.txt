@@ -1,3 +1,0 @@
-welcome to our first devops class
-
-update in github repo
