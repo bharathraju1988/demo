@@ -1,5 +1,6 @@
 FROM python:2.7-slim
 
+Maintainer kbharath951@gmail.com
 # Set the working directory to /app
 WORKDIR /app
 
